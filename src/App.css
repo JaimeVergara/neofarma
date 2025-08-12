@@ -83,6 +83,10 @@ html {
   color: white; /* Cambia el color por defecto */
 }
 
+.contact-link:hover {
+  color: black; /* Cambia el color al pasar el mouse */
+}
+
 
 
 
