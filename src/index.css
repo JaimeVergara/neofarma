@@ -1,13 +1,16 @@
 :root {
-  margin: 0;
-  /* background: #edeff4; */
-  font-family: system-ui;
-  display: grid;
-  place-content: center;
+  --primary-color: #00a49a;
+  /* otras variables */
 }
 
-.App {
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+#root {
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
-  gap: 8px;
 }

@@ -1,22 +1,89 @@
-#root {
-  max-width: 1280px;   /* Limita el ancho máximo */
-  margin: 0 auto;       /* Centra el contenido horizontalmente */
-  padding: 2rem;
-  text-align: center;
-  /* background: #0A0F1D;  Azul oscuro */
-  min-height: 100vh;    /* Ocupa toda la pantalla */
-  display: flex;
-  flex-direction: column;
-  align-items: center;  /* Centra el contenido */
-  justify-content: center;
+.App {
+  flex: 1; /* Esto permite que App crezca para ocupar el espacio disponible */
 }
 
-.titulo-farmacia {
-  align-items: center;
-  color: #0a0000;
-  font-size: 1.0rem;
-  justify-content: space-between;
-  margin-top: 0.5rem;
+main {
+  flex: 1; /* Hace que el <main> crezca y empuje el footer al fondo */
+  padding: 2rem;
 }
+
+footer {
+  background-color: var(--primary-color);
+  color: white;
+  text-align: center;
+  padding: 1rem 0;
+}
+
+@media screen and (max-width: 400px) {
+  #features {
+    padding: 20px;
+    width: 111%;
+  }
+  #about,
+  #services,
+  #testimonials,
+  #team,
+  #contact,
+  #footer {
+    width: 111%;
+  }
+
+  #portfolio {
+    width: 110%;
+  }
+}
+
+.espacio-carrusel {
+  margin-top: 8rem;
+  margin-bottom: 2rem;
+}
+
+.espacio-secciones {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+[id] {
+  scroll-margin-top: 120px;
+}
+
+.color-green{
+  background-color: #00a49a !important;
+}
+
+#contact {
+  padding: 0 0 60px;
+  background-color: #00a49a !important;
+}
+
+.active-link {
+  border-bottom: 3px solid #00a49a;
+}
+
+.active-link:hover {
+  color: black; /* Cambia el color al pasar el mouse */
+}
+
+.footer-link {
+  text-decoration: none; /* Quita la línea */
+  color:  rgb(44, 42, 42); /* Cambia el color por defecto */
+}
+
+.footer-link:hover {
+  color: black; /* Cambia el color al pasar el mouse */
+}
+
+.contact-link {
+  text-decoration: none; /* Quita la línea */
+  color: white; /* Cambia el color por defecto */
+}
+
+
+
 
 
