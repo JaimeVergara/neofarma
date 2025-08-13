@@ -15,8 +15,6 @@ Nuestro objetivo es ofrecer a nuestros clientes una experiencia web clara, moder
 ### 📱 Versión Móvil
 ![Captura móvil](./screenshots/mobile-preview.png)
 
-> 📌 Coloca tus capturas de pantalla en una carpeta llamada `screenshots` dentro de tu proyecto para que se muestren correctamente.
-
 ---
 
 ## 🚀 Tecnologías utilizadas
