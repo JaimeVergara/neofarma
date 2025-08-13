@@ -1,4 +1,4 @@
-# 💊 NeoFarma - Página Web Oficial
+# 💊 NeoFarma - Página Web 
 
 Este es el sitio web oficial de **NeoFarma**, desarrollado con **React** y **Bootstrap 5**, y publicado en **GitHub Pages**.  
 Nuestro objetivo es ofrecer a nuestros clientes una experiencia web clara, moderna y fácil de navegar.
