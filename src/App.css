@@ -15,10 +15,6 @@ footer {
 }
 
 @media screen and (max-width: 400px) {
-  #features {
-    padding: 20px;
-    width: 111%;
-  }
   #about,
   #services,
   #testimonials,
@@ -34,7 +30,7 @@ footer {
 }
 
 .espacio-carrusel {
-  margin-top: 8rem;
+  margin-top: 7rem;
   margin-bottom: 2rem;
 }
 
@@ -63,6 +59,8 @@ html {
 
 .active-link {
   border-bottom: 3px solid #00a49a;
+  color: #00a49a !important;
+  font-weight: bold;
 }
 
 .active-link:hover {

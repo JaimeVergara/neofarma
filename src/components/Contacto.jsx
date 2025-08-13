@@ -5,7 +5,7 @@ return (
     <div id="contact" className="d-flex justify-content-center align-items-center">
         <div className="container espacio-secciones">
             <div className="row">
-                <div className="col-12 text-center mb-4 mt-4">
+                <div className="col-12 text-center">
                     <h2>Contacto</h2>
                     <p className="text-muted">¿Tienes preguntas? ¡Escríbenos!</p>
                 </div>
@@ -86,7 +86,7 @@ return (
                 </div>
             </div>
             <div className="row mt-5">
-                <div className="col-12 text-center mt-4">
+                <div className="col-12 text-center mt-5">
                     <a href="https://www.instagram.com/neofarma_valdivia/" target="_blank"><i className="fa-brands fa-instagram fa-3x text-black p-2"></i></a>
                     <a href="https://www.facebook.com/p/Farmacia-Neofarma-Valdivia-61576023124507/" target="_blank"><i className="fa-brands fa-square-facebook fa-3x text-black p-2"></i></a>
                     <a href="https://api.whatsapp.com/send?phone=56974510495&text=Hola%20NeoFarma!" target="_blank"><i className="fa-brands fa-whatsapp fa-3x text-black p-2"></i></a>
