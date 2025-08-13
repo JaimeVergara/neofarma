@@ -1,8 +1,35 @@
-# Pagina NeoFarma 
+# 💊 NeoFarma - Página Web Oficial
 
-Esta es una pagina estatica para la farmacia NeoFarma de Valdivia 
+Este es el sitio web oficial de **NeoFarma**, desarrollado con **React** y **Bootstrap 5**, y publicado en **GitHub Pages**.  
+Nuestro objetivo es ofrecer a nuestros clientes una experiencia web clara, moderna y fácil de navegar.
 
-Creada con React.
+🌍 **Visítanos aquí:** [https://jaimevergara.github.io/neofarma/](https://jaimevergara.github.io/neofarma/)
 
-_En contruccion._
+---
+
+## 📸 Vista previa
+
+### 🖥 Versión Escritorio
+![Captura escritorio](./screenshots/desktop-preview.png)
+
+### 📱 Versión Móvil
+![Captura móvil](./screenshots/mobile-preview.png)
+
+> 📌 Coloca tus capturas de pantalla en una carpeta llamada `screenshots` dentro de tu proyecto para que se muestren correctamente.
+
+---
+
+## 🚀 Tecnologías utilizadas
+- **React** ⚛️
+- **Bootstrap 5** 🎨
+- **Font Awesome** 🔤
+- **HTML5 / CSS3 / JavaScript**
+
+---
+
+## 📦 Instalación y ejecución local
+
+1. **Clonar el repositorio**
+   ```bash
+   git clone https://github.com/jaimevergara/neofarma.git
 
