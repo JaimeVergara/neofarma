@@ -4,3 +4,5 @@ Esta es una pagina estatica para la farmacia NeoFarma de Valdivia
 
 Creada con React.
 
+##En contruccion.
+
