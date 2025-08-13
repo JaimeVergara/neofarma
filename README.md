@@ -33,3 +33,19 @@ Nuestro objetivo es ofrecer a nuestros clientes una experiencia web clara, moder
    ```bash
    git clone https://github.com/jaimevergara/neofarma.git
 
+2. **Entrar a la carpeta del proyecto**
+   ```bash
+   cd neofarma
+
+3. **Instalar dependencias**
+   ```bash
+   npm install
+
+4. **Ejecutar en modo desarrollo**
+   ```bash
+   npm run dev
+
+5. **npm run build**
+   ```bash
+   npm run build
+
