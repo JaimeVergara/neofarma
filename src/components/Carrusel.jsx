@@ -6,10 +6,10 @@ export default function Carrusel() {
         <div id="carouselExampleInterval" className="carousel slide" data-bs-ride="carousel">
             <div className="carousel-inner">
                 <div className="carousel-item active" data-bs-interval="2000">
-                    <img src="/images/medicamentos1.jpg" className="d-block w-100 h-80" alt="..." />
+                    <img src="images/medicamentos1.jpg" className="d-block w-100 h-80" alt="..." />
                 </div>
                 <div className="carousel-item" data-bs-interval="2000">
-                    <img src="/images/medicamentos1.jpg" className="d-block w-100 h-80" alt="..." />
+                    <img src="images/medicamentos1.jpg" className="d-block w-100 h-80" alt="..." />
                 </div>
             </div>
             <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">

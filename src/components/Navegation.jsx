@@ -17,7 +17,7 @@ export default function Nav() {
       <div className="container">
         <a className="navbar-brand" href="#">
           <img
-            src="/images/neofarma.jpg"
+            src="images/neofarma.jpg"
             alt="Logo NeoFarma"
             className="img-fluid mx-auto d-block"
             style={{ maxWidth: '150px' }}

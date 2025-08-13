@@ -16,7 +16,7 @@ return (
                             <input
                                 type="text"
                                 className="form-control"
-                                id="textx"
+                                id="text"
                                 placeholder="nombre"
                                 required
                             />
